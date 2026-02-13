@@ -46,4 +46,4 @@ Before running the application, you must set up the database:
 * **Scalable Design:** Separated database logic (`db` package) from the UI code.
 
 ---
-*Created by [Your Name]*
+*Created by Ahmed Saad*
